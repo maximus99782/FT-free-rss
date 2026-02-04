@@ -1,30 +1,29 @@
-run_utc=2026-02-04T13:34:57.974496+00:00
+run_utc=2026-02-04T15:59:26.050334+00:00
 source_mode=myft_rss_secret
 source_http_status=200
 source_content_type=text/xml; charset=utf-8
 source_entries_count=20
+dropped_paid_url=https://www.ft.com/content/4254946f-2425-40a2-a8b3-abb3e7d7d016?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/3292d9e9-e9f1-4cdf-9666-c345612aae31?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/b64e95fc-331c-4aa3-8867-2a47fd4d1d70?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/67ae9436-0a5f-4601-adbf-a4ae532d8cf5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/0429a44a-56c4-425c-9155-dbcac190e469?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/c7b3eaa5-a650-400d-beda-ba71d44cc8e7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/3f066086-696b-4911-aacb-43f8ee6e30dc?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/4254946f-2425-40a2-a8b3-abb3e7d7d016?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/9d94491b-cfb8-4c9e-bffc-70cab2ee1375?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_unknown_url=https://www.ft.com/content/8efc83ac-0774-4aaa-bdef-a7c559be9040?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=no_jsonld
 dropped_paid_url=https://www.ft.com/content/3352d8d5-600e-46e7-b9fc-5deffc192c3e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/6b6284a7-8d46-477b-94b3-ca5f9ddb38cf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/c33069f5-1fcd-409e-bc2a-6bbd4780243d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-check_error_url=https://www.ft.com/content/6c6d9f28-4eaa-4f0b-8197-9b52af4275e9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+dropped_paid_url=https://www.ft.com/content/6c6d9f28-4eaa-4f0b-8197-9b52af4275e9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/03fba31c-cdcd-4717-bcca-9bb27e467704?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-check_error_url=https://www.ft.com/content/0d5551a8-9c74-4e85-b62f-c50e658a5fb5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/156b8781-f28a-4023-b157-a8a525ea335e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/c1229d2e-b871-4419-b9ed-7a9589c5a296?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/93b4c72a-0ceb-4839-bf72-06de3870d407?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/e9f0f49d-c9f7-41d6-854a-5e8c41f0334a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-check_error_url=https://www.ft.com/content/90aa74a5-b39d-4131-a138-367726cb18fb?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
-kept_items=1
-dropped_paid=10
-dropped_unknown=9
+dropped_paid_url=https://www.ft.com/content/0d5551a8-9c74-4e85-b62f-c50e658a5fb5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/c1229d2e-b871-4419-b9ed-7a9589c5a296?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/93b4c72a-0ceb-4839-bf72-06de3870d407?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+kept_items=2
+dropped_paid=17
+dropped_unknown=1
 dropped_no_link=0
-check_errors=8
+check_errors=0
 fail_closed=True

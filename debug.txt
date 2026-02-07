@@ -1,4 +1,4 @@
-run_utc=2026-02-07T02:49:17.204570+00:00
+run_utc=2026-02-07T04:47:00.322083+00:00
 source_mode=myft_rss_secret
 source_http_status=200
 source_content_type=text/xml; charset=utf-8
@@ -14,18 +14,18 @@ dropped_paid_url=https://www.ft.com/content/09948511-8e9e-4f40-9aec-50c428e1771c
 dropped_unknown_url=https://www.ft.com/content/99e845ab-36ad-4ca7-bc6f-9cd43718e02a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=no_jsonld
 dropped_paid_url=https://www.ft.com/content/610363bf-3fcf-4f9d-8531-fb35424d5ed4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/0c812d51-6775-4edc-8803-522d7cb18198?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/c2729975-892e-493b-b2d8-e49347f2c1c7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/282c3faa-f0ab-4a9f-b6f7-698c6baab6ae?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/34c80766-86c6-4637-bc0d-aca587ee8baf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/a1bd22ec-42cf-46dc-9ff7-ec8a2a89a534?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/75e9d61d-38af-4e45-a4df-71da6d99352e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/c5caa835-e197-4489-bf01-be7017184531?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/3e220182-2906-4164-8322-42134da7759b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+check_error_url=https://www.ft.com/content/c2729975-892e-493b-b2d8-e49347f2c1c7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/282c3faa-f0ab-4a9f-b6f7-698c6baab6ae?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/34c80766-86c6-4637-bc0d-aca587ee8baf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/a1bd22ec-42cf-46dc-9ff7-ec8a2a89a534?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/75e9d61d-38af-4e45-a4df-71da6d99352e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/c5caa835-e197-4489-bf01-be7017184531?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
+check_error_url=https://www.ft.com/content/3e220182-2906-4164-8322-42134da7759b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss err=HTTPError
 kept_items=0
-dropped_paid=19
-dropped_unknown=1
+dropped_paid=10
+dropped_unknown=10
 dropped_no_link=0
-check_errors=0
+check_errors=9
 fail_closed=True

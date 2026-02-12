@@ -4,15 +4,7 @@
     <title>FT myFT (free-only, schema-based)</title>
     <link>https://www.ft.com/</link>
     <description>Filtered RSS feed using isAccessibleForFree; see debug.txt</description>
-    <lastBuildDate>Thu, 12 Feb 2026 07:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:06:38 +0000</lastBuildDate>
     
-    <item>
-      <title>A wacky US jobs report</title>
-      <link>https://www.ft.com/content/8a4a150f-cd77-4686-94e9-d7e14db7e68f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8a4a150f-cd77-4686-94e9-d7e14db7e68f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Thu, 12 Feb 2026 05:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fuploaded-files%2F1920x1080_Display_NEWSBRIEFING-c2361a67-f011-418f-9082-b4464bbdef87.jpeg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;There seems to be an improvement in the US labour market following a string of bleak data&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/us-economy?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;US economy&lt;/a&gt;</description>
-    </item>
-            
   </channel>
 </rss>

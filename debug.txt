@@ -1,4 +1,4 @@
-run_utc=2026-02-14T18:52:52.906349+00:00
+run_utc=2026-02-14T21:37:23.558285+00:00
 source_mode=myft_rss_secret
 source_http_status=200
 source_content_type=text/xml; charset=utf-8

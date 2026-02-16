@@ -4,7 +4,15 @@
     <title>FT myFT (free-only, schema-based)</title>
     <link>https://www.ft.com/</link>
     <description>Filtered RSS feed using isAccessibleForFree; see debug.txt</description>
-    <lastBuildDate>Mon, 16 Feb 2026 19:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 21:43:46 +0000</lastBuildDate>
     
+    <item>
+      <title>Inflation and interest rates tracker: see how your country compares</title>
+      <link>https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
+      <guid isPermaLink="true">https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
+      <pubDate>Mon, 16 Feb 2026 11:30:24 +0000</pubDate>
+      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7fc1abee-68bb-4242-b943-dd5ec6f4c0d9.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;Inflationary pressures are beginning to wane. Explore the latest data through interactive charts&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/european-union?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;European Union&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/us-economy?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;US economy&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/global-economy?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Global Economy&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/global-inflation?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Global inflation&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/eurozone-economy?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Eurozone economy&lt;/a&gt;</description>
+    </item>
+            
   </channel>
 </rss>

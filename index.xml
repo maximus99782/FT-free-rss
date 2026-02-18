@@ -4,7 +4,7 @@
     <title>FT myFT (free-only, schema-based)</title>
     <link>https://www.ft.com/</link>
     <description>Filtered RSS feed using isAccessibleForFree; see debug.txt</description>
-    <lastBuildDate>Wed, 18 Feb 2026 16:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 19:13:48 +0000</lastBuildDate>
     
     <item>
       <title>‘It basically ripped my heart apart’: How AI chatbots cause romantic delusions</title>
@@ -12,14 +12,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/6db38f23-b68c-4408-be51-7d88bfd1aac1?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
       <pubDate>Wed, 18 Feb 2026 15:50:41 +0000</pubDate>
       <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfd18e4a-9f40-4b58-9024-e29d008ad0f9.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;The second episode of our podcast series examines how AI can distort our sense of reality&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/big-tech?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Big Tech&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/innovation?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Innovation&lt;/a&gt;</description>
-    </item>
-            
-    <item>
-      <title>Tech Exchange</title>
-      <link>https://www.ft.com/content/156b8781-f28a-4023-b157-a8a525ea335e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/156b8781-f28a-4023-b157-a8a525ea335e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Wed, 18 Feb 2026 05:25:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3caad81d-fb0b-44c0-87a6-9f351114ba90.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;This series features conversations between FT journalists and the technology industry’s leaders, innovators, and thinkers. In the latest instalment, Synthesia’s Victor Riparbelli talks about his mission to reinvent video content creation and how Europe can compete in the global AI race&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/tech-start-ups?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Tech start-ups&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/big-tech?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Big Tech&lt;/a&gt;</description>
     </item>
             
   </channel>

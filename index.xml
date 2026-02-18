@@ -4,22 +4,14 @@
     <title>FT myFT (free-only, schema-based)</title>
     <link>https://www.ft.com/</link>
     <description>Filtered RSS feed using isAccessibleForFree; see debug.txt</description>
-    <lastBuildDate>Wed, 18 Feb 2026 05:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:15:52 +0000</lastBuildDate>
     
     <item>
-      <title>Synthesia&apos;s Victor Riparbelli: forget everything you know about video</title>
-      <link>https://www.ft.com/content/26595ae7-a338-4abf-8b45-1f7e66e34694?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/26595ae7-a338-4abf-8b45-1f7e66e34694?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Wed, 18 Feb 2026 05:00:12 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fba8b6478-ee16-4ad9-9afb-a510ca8cdb66.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;The founder of the $4bn UK start-up talks about his mission to reinvent content creation and how Europe can compete in the global AI race&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/artificial-intelligence?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Artificial intelligence&lt;/a&gt;</description>
-    </item>
-            
-    <item>
-      <title>Artificial intimacy: The delusion machine</title>
-      <link>https://www.ft.com/content/ee91dc0d-6db6-433c-8eec-31bdb0727f71?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ee91dc0d-6db6-433c-8eec-31bdb0727f71?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fuploaded-files%2F1920x1080_Display_TECHTONIC-960afe43-d4e1-4acf-b729-487a60a26250.jpeg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;Inside the minds of people who have been led to believe conspiracies by chatbots &lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;</description>
+      <title>Tech Exchange</title>
+      <link>https://www.ft.com/content/156b8781-f28a-4023-b157-a8a525ea335e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
+      <guid isPermaLink="true">https://www.ft.com/content/156b8781-f28a-4023-b157-a8a525ea335e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
+      <pubDate>Wed, 18 Feb 2026 05:25:49 +0000</pubDate>
+      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3caad81d-fb0b-44c0-87a6-9f351114ba90.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;This series features conversations between FT journalists and the technology industry’s leaders, innovators, and thinkers. In the latest instalment, Synthesia’s Victor Riparbelli talks about his mission to reinvent video content creation and how Europe can compete in the global AI race&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/tech-start-ups?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Tech start-ups&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/big-tech?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Big Tech&lt;/a&gt;</description>
     </item>
             
   </channel>

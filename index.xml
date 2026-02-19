@@ -4,23 +4,7 @@
     <title>FT myFT (free-only, schema-based)</title>
     <link>https://www.ft.com/</link>
     <description>Filtered RSS feed using isAccessibleForFree; see debug.txt</description>
-    <lastBuildDate>Thu, 19 Feb 2026 10:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:41:48 +0000</lastBuildDate>
     
-    <item>
-      <title>FT ranking: Europe’s leading start-up hubs 2026</title>
-      <link>https://www.ft.com/content/ab05487c-72f9-4c1c-9acf-07768693b105?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ab05487c-72f9-4c1c-9acf-07768693b105?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Thu, 19 Feb 2026 05:00:20 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7b367ff4-61b5-467e-9d4f-093f1bc23399.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;View the top centres providing business incubator and accelerator programmes  &lt;br /&gt;&lt;a href=&quot;https://www.ft.com/technology?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Technology&lt;/a&gt;, &lt;a href=&quot;https://www.ft.com/tech-start-ups?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Tech start-ups&lt;/a&gt;</description>
-    </item>
-            
-    <item>
-      <title>The powerhouse gallerists behind Sprüth Magers have never lost an artist. Here’s why</title>
-      <link>https://www.ft.com/content/d2c9500b-0183-4a7a-8e24-a75d634c5c9b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d2c9500b-0183-4a7a-8e24-a75d634c5c9b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <pubDate>Thu, 19 Feb 2026 05:00:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d0ddbee-4ca2-4715-8530-0b03be663d29.jpg?source=next-myft-page&amp;amp;fit=scale-down&amp;amp;width=900&quot; /&gt;Monika Sprüth and Philomene Magers on going global while ‘staying small’&lt;br /&gt;&lt;a href=&quot;https://www.ft.com/germany?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96&quot;&gt;Germany&lt;/a&gt;</description>
-    </item>
-            
   </channel>
 </rss>

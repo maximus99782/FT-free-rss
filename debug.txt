@@ -1,9 +1,11 @@
-run_utc=2026-02-21T15:37:47.608966+00:00
+run_utc=2026-02-21T18:53:15.197680+00:00
 source_mode=myft_rss_secret
 source_http_status=200
 source_content_type=text/xml; charset=utf-8
 source_entries_count=20
+dropped_paid_url=https://www.ft.com/content/8b1e0364-092e-4b8c-8391-23b59840e74d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/b1177a90-56ed-4936-8a02-a72424df510d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
+dropped_paid_url=https://www.ft.com/content/b7c1eb3e-7469-4aab-8909-9d3616a291a5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/9bb03b35-2bf5-44fb-b02e-0dbbc3b87b7f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/a3f9cd15-0217-4a5d-85b2-89738a5fce70?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/53999ab8-50ef-4719-8ff4-038a4890c3f2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
@@ -21,8 +23,6 @@ dropped_paid_url=https://www.ft.com/content/14c01257-f4dd-4f5a-ae10-e7134462135d
 dropped_paid_url=https://www.ft.com/content/07a295a3-e323-4a96-af48-ba8d01ab059a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/2c473393-35fb-479d-8bba-236a1a98087c?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 dropped_paid_url=https://www.ft.com/content/4d97c617-50ec-4152-9d5f-15688279ef90?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/d1f3c1ca-2724-4755-ae6b-c2ab158365ef?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
-dropped_paid_url=https://www.ft.com/content/37796aba-4cfb-42f3-98aa-88f71d649146?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss reason=schema_isAccessibleForFree_false
 kept_items=0
 dropped_paid=20
 dropped_unknown=0
